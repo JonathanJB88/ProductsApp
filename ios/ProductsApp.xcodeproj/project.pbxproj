@@ -514,7 +514,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = JonathanProductsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathanbracho.jonidevproductsapp;
 				PRODUCT_NAME = JoniDevProducts;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -542,7 +542,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = JonathanProductsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathanbracho.jonidevproductsapp;
 				PRODUCT_NAME = JoniDevProducts;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
