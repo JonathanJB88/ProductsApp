@@ -1,4 +1,4 @@
-package com.productsapp;
+package com.jonathanbracho.jonidevproductsapp;
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import android.app.Application;
 import com.facebook.react.PackageList;

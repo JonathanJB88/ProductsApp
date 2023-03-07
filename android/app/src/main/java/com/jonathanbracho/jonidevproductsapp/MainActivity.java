@@ -1,4 +1,4 @@
-package com.productsapp;
+package com.jonathanbracho.jonidevproductsapp;
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

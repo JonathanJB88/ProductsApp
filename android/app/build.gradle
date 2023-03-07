@@ -98,9 +98,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.productsapp"
+    namespace "com.jonathanbracho.jonidevproductsapp"
     defaultConfig {
-        applicationId "com.productsapp"
+        applicationId "com.jonathanbracho.jonidevproductsapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
